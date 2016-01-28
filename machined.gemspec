@@ -31,6 +31,8 @@ Gem::Specification.new do |s|
   s.add_dependency             'i18n',              '~> 0.6.0'
   s.add_dependency             'thor',              '~> 0.15.4'
   s.add_dependency             'crush',             '~> 0.3.3'
+  s.add_dependency             'sassc',             '~>1.8', '>= 1.8.4'
+  
   s.add_development_dependency 'rspec',             '~> 2.13.0'
   s.add_development_dependency 'rack-test',         '~> 0.6.1'
   s.add_development_dependency 'test-construct',    '~> 1.2.0'

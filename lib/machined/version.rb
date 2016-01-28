@@ -1,3 +1,3 @@
 module Machined
-  VERSION = '1.1.0.wiwo.2'
+  VERSION = '1.1.0.wiwo.sassc.2'
 end
